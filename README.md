@@ -228,3 +228,83 @@ Use these files to complete the implementation:
 > - Don't change the component folder names as those are the files being imported into the tests.
 > - **Do not remove the pre-filled code**
 > - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
+
+# Title
+
+    Interactive Digital marketing application
+
+## Objective
+
+    Building a modern, visually appealing, and userfriendly dynamic website using the MERN (MongoDB, Express.js, React.js, Node.js) stack.
+
+## Tech Stack
+
+    MERN (MongoDB, Express.js, React.js, Node.js) stack.
+
+## Completion Instructions
+
+### Functionality
+
+1. Landing Page:
+• Create an engaging landing page with a clear call-to-action.
+• Implement smooth animations or transitions for an enhanced user
+experience.
+• Include relevant sections introducing the digital marketing company's core
+values and services.
+
+2. About Us Page:
+• Develop a page providing information about the digital marketing company,
+its mission, and team members.
+• Use a clean and minimalistic design for improved readability.
+3. Blog Page:
+• Implement a blog page that displays multiple blog posts.
+• Each blog post should have a featured image, title, brief description, and a
+"Read More" link.
+• Clicking on a blog post should lead to a detailed page with the full content.
+4. Services Page:
+
+• Create a services page showcasing cards for various services the digital
+marketing agency provides.
+• When a service card is clicked, it should redirect to a new page providing
+detailed information about that specific service.
+• Use effective design to highlight key features of each service.
+5. Contact Us Form:
+• Design a contact us form with fields for name, email, phone, and message.
+• On form submission, the information should be sent to a designated email
+address.
+• Implement client-side and server-side form validation.
+
+### Guidelines to develop a project
+
+Utilize GitHub
+Commit code regularly and commit messages should be clear
+Include a README file explaining the project setup, usage instructions, and any additional information
+The repo should be well organized and easy to understand.
+The code should be clean, modular, and well-structured
+The application should be visually appealing.
+The application should handle all the errors.
+
+### Submission Instructions
+
+#### Must Have
+
+    List the Instructions to follow while submitting the project mentioned in the Assignment, if any
+
+#### Nice to Have
+
+    List the suggested instructions to follow while submitting the project mentioned in the Assignment, if any
+
+## Resources
+
+### Design files
+
+    List the references of design files required for the Assignment
+
+### APIs
+
+    List the APIs, providing any relevant endpoints, documentation links, or access keys, required for the Assignment if any
+
+### Third-party packages
+
+    List the Third-party packages required for the Assignment, if any
+

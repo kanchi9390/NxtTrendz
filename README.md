@@ -286,11 +286,11 @@ The application should handle all the errors.
 
 ### Submission Instructions
 
-#### Must Have
+#### Github Link
 
-    List the Instructions to follow while submitting the project mentioned in the Assignment, if any
+    https://github.com/kanchi9390/NxtTrendz.git
 
-#### Nice to Have
+#### Deployed Link
 
     List the suggested instructions to follow while submitting the project mentioned in the Assignment, if any
 
